@@ -74,7 +74,8 @@
     "connect-redis": "~2.4.1",
     "cookie-session": "~1.2.0",
     "jade": "~1.11.0",
-    "vhost": "~3.0.2"
+    "vhost": "~3.0.2",
+    "benchmark": "2.1.3"
   },
   "engines": {
     "node": ">= 0.10.0"

@@ -9,5 +9,9 @@ all:
 	@./run 50 middleware
 	@./run 100 middleware
 	@echo
+	@node init_middleware.js
+	@echo
+	@node router_dispatcher.js
+	@echo
 
 .PHONY: all
